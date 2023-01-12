@@ -1,0 +1,34 @@
+/* Q4 */
+.upperItal {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+/* Q5 */
+h2 {
+    letter-spacing: 0.5rem;
+}
+
+/* Q6 */
+h1 {
+    text-shadow: 0 2px 2px red;
+}
+
+/* Q7 */ 
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Q8 */
+.masked {
+    text-decoration: line-through;
+}
+
+/* Q9 */
+.indent::first-line {
+    text-indent: 2rem;
+}
